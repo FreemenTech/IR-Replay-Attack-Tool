@@ -201,7 +201,7 @@ This tool was built and tested on **my own LG TV** in a controlled environment. 
 | Version | Features |
 |---------|----------|
 | **v1 (this)** | Capture, multi-protocol replay, single signal in RAM |
-| [**v2 (EEPROM)**](../12b-ir-replay-attack-v2) | Signal persists after reboot using EEPROM storage |
+| [**v2 (EEPROM)**](https://github.com/FreemenTech/IR-Replay-Attack-Tool/tree/main/v2-eeprom) | Signal persists after reboot using EEPROM storage |
 
 ## Author
 
